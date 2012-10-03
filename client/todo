@@ -1,0 +1,13 @@
+naechste schritte:
+-player und dessen sprite laden
+-player anzeigen
+-playerbewegung
+-kollision
+-net
+
+optionales bimbam fuer zwischendurch:
+-doku
+-fehlererkennung
+-schickes, schnelles mapladen welches auch lösgelöst (!) von der internen mapstruktur arbytet.
+-png laden direkt mit libpng. cairo ist schoen aber overkill.
+-rendern optimieren
